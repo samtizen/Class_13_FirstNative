@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/org.tizen.nativecore.config.sbi.gcc45.app.debug.223664410/PATH/delimiter=\:
+environment/project/org.tizen.nativecore.config.sbi.gcc45.app.debug.223664410/PATH/operation=append
+environment/project/org.tizen.nativecore.config.sbi.gcc45.app.debug.223664410/PATH/value=/usr/local/lib/python3.5/dist-packages/numpy/distutils/mingw/bin
+environment/project/org.tizen.nativecore.config.sbi.gcc45.app.debug.223664410/append=true
+environment/project/org.tizen.nativecore.config.sbi.gcc45.app.debug.223664410/appendContributed=true
